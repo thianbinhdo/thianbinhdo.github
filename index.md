@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog where I share my experiences in Tokyo, Japan!
+title: Willkommen zu meinem Blog
 ---
 
-This is my first Text.
+Das wird ein Blog, der meine Reise nach Japan dokumentieren soll.
